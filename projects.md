@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Write-Ups
+title: Projects
 permalink: /projects/
 ---
 
