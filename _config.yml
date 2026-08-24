@@ -1,0 +1,20 @@
+title: "Kevin Rodriguez — Security Notes"
+description: "Pentesting write-ups, LLM security research, and CTF/lab notes."
+theme: minima
+
+minima:
+  skin: dark
+  social_links:
+    github: kevin.a.rodriguez
+    linkedin: kevinrodriguez29
+
+header_pages:
+  - about.md
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# GitHub Pages builds this natively — no Actions/CI needed as long as
+# you only use plugins from the GitHub Pages allowlist (jekyll-feed,
+# jekyll-seo-tag, jekyll-sitemap are all safe).
