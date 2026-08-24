@@ -10,6 +10,7 @@ minima:
 
 header_pages:
   - posts.md
+  - projects.md
   - about.md
   - contact.md
 
