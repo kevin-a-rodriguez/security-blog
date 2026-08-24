@@ -9,8 +9,8 @@ minima:
     linkedin: kevinrodriguez29
 
 header_pages:
-  - about.md
   - posts.md
+  - about.md
 
 markdown: kramdown
 plugins:
