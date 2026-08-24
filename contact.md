@@ -4,8 +4,10 @@ title: Contact
 permalink: /contact/
 ---
 
-I'm open to conversations about penetration testing roles, security
-research collaboration, or feedback on anything I've written here.
+I'm open to oppurtunities in penetration testing, security
+research collaboration, or feedback on anything found on my blog posts.
+
+You can reach me here:
 
 **Email:** [kevin.a.rodriguez@protonmail.com](mailto:kevin.a.rodriguez@protonmail.com)
 
@@ -13,6 +15,3 @@ research collaboration, or feedback on anything I've written here.
 
 **GitHub:** [github.com/kevin.a.rodriguez](https://github.com/kevin.a.rodriguez)
 
-If you're reaching out about a security finding on this site or one of
-my projects, please email me directly rather than opening a public
-issue.
