@@ -2,10 +2,15 @@
 layout: home
 ---
 
-Hi, I'm Kevin Rodriguez — I currently hold a bachelor's degree (B.S.) in Computer Engineering and a master's degree (M.S.) in Cyber Security and Information Assurance. I also currently hold several industry standard certifications including: Cisco Certified Networking Associate (CCNA), CompTIA CySA+, CompTIA PenTest+, CompTIA SecurityX, Practical Network Pentration Tester (PNPT), and Offensive Security Certified Practioner (OSCP).
-I write about offensive security here: web application testing, network pentesting, and (lately)
-LLM/AI application security — prompt injection, jailbreaks, and agentic
+Hi, I'm Kevin Rodriguez and this is my cyber security blog. 
+
+Here I write about offensive security: web application testing, network pentesting, and (lately) LLM/AI application security — prompt injection, jailbreaks, and agentic
 tool-calling risks.
+
+**Currently working on:**
+- Web app assessments via PortSwigger Web Security Academy and HTB/THM
+- A self-built vulnerable LLM application for practicing prompt
+  injection, jailbreaks, and tool-calling abuse
 
 Posts below are write-ups from labs, CTFs, and projects I've built to
 practice specific vulnerability classes. Each one walks through the
