@@ -11,6 +11,7 @@ minima:
 header_pages:
   - posts.md
   - about.md
+  - contact.md
 
 markdown: kramdown
 plugins:
