@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Breaking My Own LLM App, Part 1: System Prompt Leakage via Direct Prompt Injection"
+title: "Test Breaking My Own LLM App, Part 1: System Prompt Leakage via Direct Prompt Injection"
 date: 2026-08-23
 categories: [ai-security, prompt-injection]
 ---
