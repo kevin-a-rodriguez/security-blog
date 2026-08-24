@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-I'm an 27 year old aspiring penetration tester a bachelor's degree (B.S.) in Computer Engineering and a master's degree (M.S.) in Cyber Security and Information Assurance.  
-I also currently hold several industry standard certifications including: Cisco Certified Networking Associate (CCNA), CompTIA CySA+, CompTIA PenTest+, CompTIA SecurityX, Practical Network Pentration Tester (PNPT), and Offensive Security Certified Practioner (OSCP).
+Hi, I’m Kevin Rodriguez. I am a 27-year-old aspiring penetration tester with a bachelor's degree (B.S.) in Computer Engineering and a master's degree (M.S.) in Cyber Security and Information Assurance.  
+I also currently hold several industry standard certifications including Cisco Certified Networking Associate (CCNA), CompTIA CySA+, CompTIA PenTest+, CompTIA SecurityX, Practical Network Pentration Tester (PNPT), and Offensive Security Certified Practioner (OSCP).
 
+I am passionate about continuous learning and staying ahead of emerging threats, which drives me to stay current with the latest cybersecurity trends and technologies. As a professional committed to excellence, I am eager to collaborate with forward-thinking organizations to enhance their security posture and contribute to a safer digital landscape. 
 
-**Currently working on:**
-- Web app assessments via PortSwigger Web Security Academy and HTB/THM
-- A self-built vulnerable LLM application for practicing prompt
-  injection, jailbreaks, and tool-calling abuse
+At home, I like working on my personal fitness goals, spending time my wife and newborn daughter, playing outside with the dog, and doing CTF challenges on platforms like TryHackMe and HackTheBox to purse my passion in Penetration Testing. 
 
-**Find me:**
-- GitHub: https://github.com/kevin-a-rodriguez
-- LinkedIn: https://www.linkedin.com/in/kevinrodriguez29
+Let’s connect and explore how we can work together to achieve cybersecurity excellence and protect our data against emerging threats.
+
